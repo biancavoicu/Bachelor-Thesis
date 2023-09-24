@@ -1,4 +1,4 @@
-# Bachelor-Thesis
+# PetKindness-App
 
 Pet Kindness, aplicația web care este prezentată în această lucrare de licență are ca
 obiectiv promovarea adopției de animale, venind atât în ajutorul persoanelor care doresc o
