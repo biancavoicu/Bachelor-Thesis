@@ -6,7 +6,7 @@ In terms of the user interface (UI), I preferred to maintain a simple and consis
   
 On the back-end side, I used the Spring Web framework with the model-view-controller (MVC) architecture. To test the controllers, I used unit tests, employing the JUnit framework to write the actual tests and Mockito to simulate fictitious data and avoid external dependencies.
   
-As security elements, I have considered many measures, but what is clear is that improvements are needed. For example, front-end form validations are reinforced on the back-end by using an object-relational mapping (ORM) tool like the Hibernate framework. For user authentication and registration, I make use of Spring Security, which provides protection against various attacks, and passwords are encrypted one-way.  
+As security elements, I have considered various measures. For example, front-end form validations are reinforced on the back-end by using an object-relational mapping (ORM) tool like the Hibernate framework. For user authentication and registration, I make use of Spring Security, which provides protection against several attacks, and passwords are encrypted one-way.  
   
 For future development directions, I've considered adding a test to discover, using artificial intelligence, which pet would be most suitable for a user.  
 
